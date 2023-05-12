@@ -1,6 +1,6 @@
 ## Attack & Defense CTF
 
-Aljaz Medic in Gasper Spagnolo
+Aljaz Medic & Gasper Spagnolo
 
 ----
 
