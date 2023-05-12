@@ -16,7 +16,7 @@ Aljaz Medic & Gasper Spagnolo
 ----
 <!-- .slide: style="text-align: left; font-size: 25px;" -->
 ### Example network structure <!-- .element: style="text-align: left; font-size: 40px;" -->
-![](img/network.png) <!-- .element style="border: 0; background: None; box-shadow: None;" width="80%" -->
+![](img/network2.png) <!-- .element style="border: 0; background: None; box-shadow: None;" width="80%" -->
 
 ----
 <!-- .slide: style="text-align: left; font-size: 25px;" -->
